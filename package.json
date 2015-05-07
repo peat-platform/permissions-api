@@ -1,6 +1,6 @@
 {
    "name"        : "permissions_api",
-   "description" : "Permissions API for the OPENi Cloudlet Platform",
+   "description" : "Permissions API for the PEAT Cloudlet Platform",
    "version"     : "0.1.0",
    "homepage"    : "http://www.openi-ict.eu/",
    "author"      : {
@@ -9,7 +9,7 @@
    },
    "repository"  : {
       "type": "git",
-      "url" : "git@github.com:OPENi-ict/permissions_api.git"
+      "url" : "git@github.com:peat-platform/permissions_api.git"
    },
    "main"        : "lib/main",
    "engines"     : {
@@ -19,10 +19,10 @@
       "test": "grunt nodeunit"
    },
    "dependencies": {
-      "m2nodehandler"          : "OPENi-ict/m2nodehandler",
-      "dbc"                    : "OPENi-ict/dbc",
-      "openi-logger"           : "OPENi-ict/openi-logger",
-      "openi-cloudlet-utils"   : "OPENi-ict/cloudlet-utils",
+      "m2nodehandler"          : "peat-platform/m2nodehandler",
+      "dbc"                    : "peat-platform/dbc",
+      "openi-logger"           : "peat-platform/openi-logger",
+      "openi-cloudlet-utils"   : "peat-platform/cloudlet-utils",
       "jsonwebtoken"           : "3.2.0"
    },
    "devDependencies": {
