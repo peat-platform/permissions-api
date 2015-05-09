@@ -2,7 +2,7 @@
    "name"        : "permissions_api",
    "description" : "Permissions API for the PEAT Cloudlet Platform",
    "version"     : "0.1.0",
-   "homepage"    : "http://www.openi-ict.eu/",
+   "homepage"    : "http://www.peat-platform.org/",
    "author"      : {
       "name" : "dmccarthy",
       "email": "dmccarthy@tssg.org"
