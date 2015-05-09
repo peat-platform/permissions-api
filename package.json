@@ -1,5 +1,5 @@
 {
-   "name"        : "permissions_api",
+   "name"        : "permissions-api",
    "description" : "Permissions API for the PEAT Cloudlet Platform",
    "version"     : "0.1.0",
    "homepage"    : "http://www.peat-platform.org/",
@@ -9,7 +9,7 @@
    },
    "repository"  : {
       "type": "git",
-      "url" : "git@github.com:peat-platform/permissions_api.git"
+      "url" : "git@github.com:peat-platform/permissions-api.git"
    },
    "main"        : "lib/main",
    "engines"     : {
