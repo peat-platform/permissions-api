@@ -19,7 +19,7 @@
       "test": "grunt nodeunit"
    },
    "dependencies": {
-      "cuchbase"               : "2.0.8",
+      "couchbase"               : "2.0.8",
       "squel"                  : "",
       "m2nodehandler"          : "OPENi-ict/m2nodehandler",
       "dbc"                    : "OPENi-ict/dbc",
